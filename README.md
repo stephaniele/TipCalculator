@@ -31,6 +31,11 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## My App Walkthrough with gif
+
+<img src='http://g.recordit.co/S1W6BfqKBJ.gif' />
+
+
 ## Notes
 
 **Problem 1: Modifying results with UserDefaults while not letting it reset**
