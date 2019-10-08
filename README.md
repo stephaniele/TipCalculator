@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Problem 1: Modifying results with UserDefaults while not letting it reset
+**Problem 1: Modifying results with UserDefaults while not letting it reset**
 
 I took awhile figuring out how to pass data between screens with UserDefaults.
 
@@ -51,7 +51,7 @@ PlaceHolder text. Thus UserDefaults gets reset and affects my main calculator pa
 
 I didn't have time to figure out how to set the default PlaceHolder text for textfield. That will be the next task that I embark on.
 
-Problem 2: Changing labels on Segmented Control
+**Problem 2: Changing labels on Segmented Control**
 
 This task is an extension on Problem 1, relating to changing default tip percentages. 
 I want to reflect the changes on the SegmentedControl itself. 
