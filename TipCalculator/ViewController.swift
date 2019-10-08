@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        billField.becomeFirstResponder()
         
         // Set default percentages for tips
         let defaults = UserDefaults.standard
