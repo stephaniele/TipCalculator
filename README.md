@@ -10,15 +10,15 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is complete:
 
-* [x] User sees an app icon on the home screen and a styled launch screen.
-* [x] User can view and scroll through a list of movies now playing in theaters.
-* [x] User can view the movie posters in each row.
-
-
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [x] User can view the app on various device sizes and orientations.
-* [x] Run your app on a real device.
+* [x] Settings page to change the default tip percentage.
+* [x] UI animations
+* [x] Remembering the bill amount across app restarts (if <10mins)
+* [x] Using locale-specific currency and currency thousands separators.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Split amount between a certain number of people
 
 The following **additional** features are implemented:
 
